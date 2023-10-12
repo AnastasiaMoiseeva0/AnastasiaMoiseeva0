@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </div>
-:woman_technologist: О себе:
+
+## :woman_technologist: О себе:
 
 - :raised_hands: Начинающий фронтенд-разработчик.
 
@@ -10,7 +11,6 @@
 - :memo: Стремлюсь к работе с настоящими рабочими проектами.
 
 - :zap: Готова к развитию и изучению новых технологий
-- :link: tg: https://t.me/sh_nastyaaa
 
 ## :hammer_and_wrench: Стек технологий:
 <div>
@@ -24,6 +24,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## :phone: Мои контакты:
+<div id="badges">
+<a href:"https://t.me/sh_nastyaaa">
+  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+<a href:"">
+  <img src="https://img.shields.io/badge/mail-yellow?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+</a>
+</div>
+
 
 ## :fire: Статистика:
 
