@@ -30,8 +30,8 @@
 <a href:"https://t.me/sh_nastyaaa">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href:"">
-  <img src="https://img.shields.io/badge/mail-yellow?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+<a href:"mailto:nmoiseevaa@yandex.ru">
+  <img src="https://img.shields.io/badge/mail-yellow?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail Badge"/>
 </a>
 </div>
 
